@@ -26,7 +26,7 @@ My current position is PhD student at the BioSystems Design team led by Dr. Guil
 My current position is Junior Security Researcher.
 I participate in Solidity (and Yul) smart contract audits.
 
-## 👨🏻‍💻 Hackatons
+## 👨🏻‍💻 Hackathons
 
 TBD (`feeling lazy rn, will to some other day`).
 
