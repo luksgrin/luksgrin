@@ -25,12 +25,22 @@ During the day, I am a PhD student at the BioSystems Design team led by Dr. Guil
 
 During the night, I am a Junior Security Researcher at Spearbit.
 I have participated in the following code reviews:
-- Through **Spearbit**
-  - [SudoSwap](https://github.com/spearbit/portfolio/blob/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf)
-  - OpenSea Pro
-- Through [**Cantina**](https://cantina.xyz/)
-  - thUSD
-  - Coinbase Base
+
+<details>
+  <summary>Through <b>Spearbit</b></summary>
+  <ul>
+    <li><a href=https://github.com/spearbit/portfolio/blob/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf>SudoSwap</a></li>
+    <li>OpenSea Pro</li>
+  </ul>
+</details>
+<details>
+  <summary>Through <a href=https://cantina.xyz/><b>Cantina</b></a></summary>
+  <ul>
+    <li>thUSD</li>
+    <li>Coibase Base</li>
+  </ul>
+</details>
+
 
 ## 💻 Tech Stack
 
@@ -43,10 +53,15 @@ I have participated in the following code reviews:
 
 ## 📰 Academic Papers
 
-- 🦠 [A variant-dependent molecular clock with anomalous diffusion models SARS-CoV-2 evolution in humans](https://doi.org/10.1073/pnas.2303578120)
-- 🧫 [Gene regulation by a protein translation factor at the single-cell level](https://doi.org/10.1371/journal.pcbi.1010087)
-- 🧪 [CRISPR-Mediated Strand Displacement Logic Circuits with Toehold-Free DNA](https://doi.org/10.1021/acssynbio.0c00649)
-- 🧬 [Nonequilibrium thermodynamics of the RNA-RNA interaction underlying a genetic transposition program](https://doi.org/10.1103/PhysRevE.103.042410)
+<details>
+  <summary><b>Click to expand!</b></summary>
+  <ul>
+    <li>🦠 <a href=https://doi.org/10.1073/pnas.2303578120>A variant-dependent molecular clock with anomalous diffusion models SARS-CoV-2 evolution in humans</a></li>
+    <li>🧫 <a href=https://doi.org/10.1371/journal.pcbi.1010087>Gene regulation by a protein translation factor at the single-cell level</a></li>
+    <li>🧪 <a href=https://doi.org/10.1021/acssynbio.0c00649>CRISPR-Mediated Strand Displacement Logic Circuits with Toehold-Free DNA</a></li>
+    <li>🧬 <a href=https://doi.org/10.1103/PhysRevE.103.042410>Nonequilibrium thermodynamics of the RNA-RNA interaction underlying a genetic transposition program</a></li>
+  </ul>
+</details>
 
 ## 👨🏻‍💻 Hackathons
 
