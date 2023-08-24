@@ -37,7 +37,7 @@ I have participated in the following code reviews:
   <summary>Through <a href=https://cantina.xyz/><b>Cantina</b></a></summary>
   <ul>
     <li>thUSD</li>
-    <li>Coibase Base</li>
+    <li>Coinbase Base</li>
   </ul>
 </details>
 
