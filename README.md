@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### [BioSystems Design lab 🦠➕➕](https://biosysdesign.csic.es/index.html)
 
-During the day, I am a PhD student at the BioSystems Design team led by Dr. Guillermo Rodrigo, where we do a bunch of weird stuff with synthetic biology, mathematical models, virus... I mostly do bioinformatics and day-dreaming about new crazy ideas. Most of the code I write (and push to `github`) comes from this lab work, and therefore everything is closed source 🤔. Sorry.
+During the day, I am a PhD student at the BioSystems Design team led by Dr. Guillermo Rodrigo, where we do a bunch of weird stuff with synthetic biology, mathematical models, viruses... I mostly do bioinformatics and day-dreaming about crazy new ideas. Most of the code I write (and push to `github`) comes from this lab work, and therefore everything is closed sourced 🤔. Sorry.
 
 ### [Spearbit Labs 🐱‍💻](https://spearbit.com/)
 
