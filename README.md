@@ -79,6 +79,7 @@ I am the main contributor and only maintainer of the [Secureum GitBook](https://
 <details>
   <summary><b>Click to expand!</b></summary>
   <ul>
+    <li> <a href=https://www.youtube.com/watch?v=wcBNQvU3XKc>Introducción a ZKP: el Esquema de Compromiso KZG <em>(at 🦖DEVFEST UPV 2023🦖)</em></a></li>
     <li><a href=https://www.youtube.com/watch?v=ABdFd54VfwY>A Unified Framework for Formal Verification of Vyper Bytecode using Halmos <em>(at TrustX DevConnect Istanbul 2023)</em></a></li>
     <li><a href=https://www.youtube.com/watch?v=-q4G-BajUAE>Secureum content announcement <em>(at TrustX DevConnect Istanbul 2023)</em></a></li>
     <li><a href=https://www.youtube.com/watch?v=h7yKGYt391M>A quick insight on Algebra and KZG commitments <em>(online at OpenSensePW)</em></a></li>
