@@ -80,8 +80,8 @@ I am the main contributor and only maintainer of the [Secureum GitBook](https://
   <li><a href=https://github.com/Deivitto/eth-bogota-hackhaton>SmartCow</a>, at ETHBogotá</li>
   <li>Dopb0t, at the First Arbitrum Hackathon Bogotá</li>
   <li><a href=https://github.com/luksgrin/topMantle_ETHPorto>TopMantle</a>, at ETHPorto</li>
-  <li><a href=https://github.com/luksgrin/ZKHack_project>ZkKloon</a>, at ZK Hack Lisbon</li>
-  <li><a href=https://github.com/misirov/zkhack-cryptographic-primitives>ZkKloon</a>, at ZK Hack Krakow</li>
+  <li><a href=https://github.com/luksgrin/ZKHack_project>ZyKloon</a>, at ZK Hack Lisbon</li>
+  <li><a href=https://github.com/misirov/zkhack-cryptographic-primitives>Cryptographic primitives for Mina</a>, at ZK Hack Krakow</li>
 </ul>
 </details>
 <details>
