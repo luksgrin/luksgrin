@@ -23,26 +23,7 @@ During the day, I am a PhD student at the BioSystems Design team led by Dr. Guil
 
 ### [Spearbit Labs 🐱‍💻](https://spearbit.com/)
 
-During the night, I am a Junior Security Researcher at Spearbit.
-I have participated in the following code reviews:
-
-<details>
-  <summary>Through <b>Spearbit</b></summary>
-  <ul>
-    <li><a href=https://github.com/spearbit/portfolio/blob/master/pdfs/SudoswapLSSVM2-Spearbit-Security-Review.pdf>SudoSwap</a></li>
-    <li>OpenSea Pro</li>
-    <li>Axiom Contracts v2</li>
-  </ul>
-</details>
-<details>
-  <summary>Through <a href=https://cantina.xyz/><b>Cantina</b></a></summary>
-  <ul>
-    <li>thUSD</li>
-    <li>Coinbase Base Bridge</li>
-  </ul>
-</details>
-
-Check out my cantina profile!
+During the night, I am a Junior Security Researcher at Spearbit. For more information about the security review I have participated in, check out my cantina profile:
 
 [![Cantina.xyz](https://img.shields.io/badge/-cantina.xyz-FFFFFF?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPCEtLSBzYW1wbGUgcmVjdGFuZ2xlIC0tPgo8c3ZnIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8Zz48cGF0aCBkPSJNMjMuOTk4NCAwQzE3LjU5NyAwIDExLjU2NTMgMi41NzM3MyA3LjAxODM1IDcuMjQ2MDNDMi40OTEyNCAxMS44OTUyIDAgMTguMDQ5MSAwIDI0LjU3NThWNDUuMDAwNkMwIDQ2LjY1NyAxLjM0Mjk2IDQ4IDIuOTk5MzggNDhDNC42NTU4MSA0OCA1Ljk5ODc2IDQ2LjY1NyA1Ljk5ODc2IDQ1LjAwMDZWMjQuNTc1OEM1Ljk5ODc2IDE5LjYyMyA3Ljg4NjE2IDE0Ljk1NCAxMS4zMTc4IDExLjQzQzE0LjcyNjMgNy45MjkwNiAxOS4yMzA0IDUuOTk4NzYgMjMuOTk4NCA1Ljk5ODc2QzI4Ljc2NjMgNS45OTg3NiAzMy4yNzA0IDcuOTI1NzYgMzYuNjc4OSAxMS40M0M0MC4xMDcyIDE0Ljk1NCA0MS45OTc5IDE5LjYyMyA0MS45OTc5IDI0LjU3NThWNDUuMDAwNkM0MS45OTc5IDQ2LjY1NyA0My4zNDA5IDQ4IDQ0Ljk5NzMgNDhDNDYuNjUzNyA0OCA0Ny45OTY3IDQ2LjY1NyA0Ny45OTY3IDQ1LjAwMDZWMjQuNTc1OEM0Ny45OTY3IDE4LjA0OTEgNDUuNTA1NSAxMS44OTUyIDQwLjk3ODMgNy4yNDYwM0MzNi40MzQ3IDIuNTczNzMgMzAuNDAzIDAgMjMuOTk4NCAwWiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg%2BPHBhdGggZD0iTTIzLjk5ODMgMjMuOTk4NEMyMi4zNDE5IDIzLjk5ODQgMjAuOTk5IDI1LjM0MTMgMjAuOTk5IDI2Ljk5NzdWNDQuOTk3M0MyMC45OTkgNDYuNjUzNyAyMi4zNDE5IDQ3Ljk5NjcgMjMuOTk4MyA0Ny45OTY3QzI1LjY1NDggNDcuOTk2NyAyNi45OTc3IDQ2LjY1MzcgMjYuOTk3NyA0NC45OTczVjI2Ljk5NzdDMjYuOTk3NyAyNS4zNDEzIDI1LjY1NDggMjMuOTk4NCAyMy45OTgzIDIzLjk5ODRaIiBmaWxsPSIjZmE1ZTA2Ij48L3BhdGg%2BPC9nPgo8L3N2Zz4%3D&style=for-the-badge)](https://cantina.xyz/u/luksgrin)
 
