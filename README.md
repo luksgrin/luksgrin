@@ -47,6 +47,7 @@ I am the main contributor and only maintainer of the [Secureum GitBook](https://
 <details>
   <summary><b>Click to expand!</b></summary>
   <ul>
+    <li>🧪 <a href=https://doi.org/10.1186/s13036-024-00448-x>Probing the orthogonality and robustness of the mammalian RNA-binding protein Musashi-1 in <em>Escherichia coli</em></a></li>
     <li>🧫 <a href=https://doi.org/10.7554/eLife.91777.1>Repurposing the mammalian RNA-binding protein Musashi-1 as an allosteric translation repressor in bacteria</a></li>
     <li>🦠 <a href=https://doi.org/10.1073/pnas.2303578120>A variant-dependent molecular clock with anomalous diffusion models SARS-CoV-2 evolution in humans</a></li>
     <li>🧫 <a href=https://doi.org/10.1371/journal.pcbi.1010087>Gene regulation by a protein translation factor at the single-cell level</a></li>
@@ -79,7 +80,8 @@ I am the main contributor and only maintainer of the [Secureum GitBook](https://
   <li><a href=https://github.com/Deivitto/eth-bogota-hackhaton>SmartCow</a>, at ETHBogotá</li>
   <li>Dopb0t, at the First Arbitrum Hackathon Bogotá</li>
   <li><a href=https://github.com/luksgrin/topMantle_ETHPorto>TopMantle</a>, at ETHPorto</li>
-  <li><a href=https://github.com/luksgrin/ZKHack_project>ZkKloon</a>, at ZK Hack Lisbon  </li>
+  <li><a href=https://github.com/luksgrin/ZKHack_project>ZkKloon</a>, at ZK Hack Lisbon</li>
+  <li><a href=https://github.com/misirov/zkhack-cryptographic-primitives>ZkKloon</a>, at ZK Hack Krakow</li>
 </ul>
 </details>
 <details>
