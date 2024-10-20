@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 During the day, I am a PhD student at the BioSystems Design team led by Dr. Guillermo Rodrigo, where we do a bunch of weird stuff with synthetic biology, mathematical models, viruses... I mostly do bioinformatics and day-dreaming about crazy new ideas. Most of the code I write (and push to `github`) comes from this lab work, and therefore everything is closed sourced 🤔. Sorry.
 
+Part of my lab activity resulted in the following contribution:
+- [Lighdock Protein-RNA docking prediction tutorial](https://lightdock.org/tutorials/0.9.3/rna_docking); for further details see [PR 1](https://github.com/lightdock/lightdock.github.io/pull/1).
+
 ### [Spearbit Labs 🐱‍💻](https://spearbit.com/)
 
 During the night, I am a Junior Security Researcher at Spearbit. For more information about the security reviews I have participated in, check out my cantina profile:
