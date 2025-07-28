@@ -17,22 +17,22 @@ Here are some ideas to get you started:
 
 ## 🚀 Job(s)
 
-### [BioSystems Design lab 🦠➕➕](https://biosysdesign.csic.es/index.html)
-
-During the day, I am a PhD student at the BioSystems Design team led by Dr. Guillermo Rodrigo, where we do a bunch of weird stuff with synthetic biology, mathematical models, viruses... I mostly do bioinformatics and day-dreaming about crazy new ideas. Most of the code I write (and push to `github`) comes from this lab work, and therefore everything is closed sourced 🤔. Sorry.
-
-Part of my lab activity resulted in the following contribution:
-- [Lighdock Protein-RNA docking prediction tutorial](https://lightdock.org/tutorials/0.9.3/rna_docking); for further details see [PR 1](https://github.com/lightdock/lightdock.github.io/pull/1).
-
 ### [Spearbit Labs 🐱‍💻](https://spearbit.com/)
 
-During the night, I am a Junior Security Researcher at Spearbit. For more information about the security reviews I have participated in, check out my cantina profile:
+I am an Operations Specialist at Spearbit (used to be a security researcher in the past). For more information about the security reviews I have participated in, check out my cantina profile:
 
 [![Cantina.xyz](https://img.shields.io/badge/-cantina.xyz-FFFFFF?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPCEtLSBzYW1wbGUgcmVjdGFuZ2xlIC0tPgo8c3ZnIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8Zz48cGF0aCBkPSJNMjMuOTk4NCAwQzE3LjU5NyAwIDExLjU2NTMgMi41NzM3MyA3LjAxODM1IDcuMjQ2MDNDMi40OTEyNCAxMS44OTUyIDAgMTguMDQ5MSAwIDI0LjU3NThWNDUuMDAwNkMwIDQ2LjY1NyAxLjM0Mjk2IDQ4IDIuOTk5MzggNDhDNC42NTU4MSA0OCA1Ljk5ODc2IDQ2LjY1NyA1Ljk5ODc2IDQ1LjAwMDZWMjQuNTc1OEM1Ljk5ODc2IDE5LjYyMyA3Ljg4NjE2IDE0Ljk1NCAxMS4zMTc4IDExLjQzQzE0LjcyNjMgNy45MjkwNiAxOS4yMzA0IDUuOTk4NzYgMjMuOTk4NCA1Ljk5ODc2QzI4Ljc2NjMgNS45OTg3NiAzMy4yNzA0IDcuOTI1NzYgMzYuNjc4OSAxMS40M0M0MC4xMDcyIDE0Ljk1NCA0MS45OTc5IDE5LjYyMyA0MS45OTc5IDI0LjU3NThWNDUuMDAwNkM0MS45OTc5IDQ2LjY1NyA0My4zNDA5IDQ4IDQ0Ljk5NzMgNDhDNDYuNjUzNyA0OCA0Ny45OTY3IDQ2LjY1NyA0Ny45OTY3IDQ1LjAwMDZWMjQuNTc1OEM0Ny45OTY3IDE4LjA0OTEgNDUuNTA1NSAxMS44OTUyIDQwLjk3ODMgNy4yNDYwM0MzNi40MzQ3IDIuNTczNzMgMzAuNDAzIDAgMjMuOTk4NCAwWiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg%2BPHBhdGggZD0iTTIzLjk5ODMgMjMuOTk4NEMyMi4zNDE5IDIzLjk5ODQgMjAuOTk5IDI1LjM0MTMgMjAuOTk5IDI2Ljk5NzdWNDQuOTk3M0MyMC45OTkgNDYuNjUzNyAyMi4zNDE5IDQ3Ljk5NjcgMjMuOTk4MyA0Ny45OTY3QzI1LjY1NDggNDcuOTk2NyAyNi45OTc3IDQ2LjY1MzcgMjYuOTk3NyA0NC45OTczVjI2Ljk5NzdDMjYuOTk3NyAyNS4zNDEzIDI1LjY1NDggMjMuOTk4NCAyMy45OTgzIDIzLjk5ODRaIiBmaWxsPSIjZmE1ZTA2Ij48L3BhdGg%2BPC9nPgo8L3N2Zz4%3D&style=for-the-badge)](https://cantina.xyz/u/luksgrin)
 
 Part of my activity as a security researcher resulted in the following contribution:
 - [PR 185](https://github.com/a16z/halmos/pull/185) for a16z's Halmos formal verification tool.
 - [PR 275](https://github.com/o1-labs/o1js-bindings/pull/275) for MINA Protocol's `o1js` bindings.
+
+### [BioSystems Design lab 🦠➕➕](https://biosysdesign.csic.es/index.html)
+
+I'm also an independent scientific researcher, closely collaborating with the BioSystems Design team led by Dr. Guillermo Rodrigo, where I used to be a student. Here we do a bunch of weird stuff with synthetic biology, mathematical models, viruses... I mostly do bioinformatics and day-dreaming about crazy new ideas. Most of the code I write (and push to `github`) comes from this lab work, and therefore everything is closed sourced 🤔. Sorry.
+
+Part of my lab activity resulted in the following contribution:
+- [Lighdock Protein-RNA docking prediction tutorial](https://lightdock.org/tutorials/0.9.3/rna_docking); for further details see [PR 1](https://github.com/lightdock/lightdock.github.io/pull/1).
 
 ## Volunteering 🧑‍🏫
 
