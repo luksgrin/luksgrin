@@ -124,3 +124,4 @@ I am the main contributor and only maintainer of the [Secureum GitBook](https://
 ## 📫 Contact
 
 Feel free to reach out through my socials 😄
+
