@@ -55,6 +55,7 @@ I am the main contributor and only maintainer of the [Secureum GitBook](https://
 <details>
   <summary><b>Click to expand! <em>(or visit my <a href=https://scholar.google.com/citations?user=mD3GvGIAAAAJ&hl=es&oi=ao>Google Scholar</a> profile)</em></b></summary>
   <ul>
+    <li>💻 <a href=https://doi.org/10.1093/bioinformatics/btag085>PyEvoMotion: a Python tool for population-based time-course analysis of genome evolution</a></li>
     <li>🧪 <a href=https://doi.org/10.1186/s13036-024-00448-x>Probing the orthogonality and robustness of the mammalian RNA-binding protein Musashi-1 in <em>Escherichia coli</em></a></li>
     <li>🧫 <a href=https://doi.org/10.7554/eLife.91777.1>Repurposing the mammalian RNA-binding protein Musashi-1 as an allosteric translation repressor in bacteria</a></li>
     <li>🦠 <a href=https://doi.org/10.1073/pnas.2303578120>A variant-dependent molecular clock with anomalous diffusion models SARS-CoV-2 evolution in humans</a></li>
@@ -69,7 +70,7 @@ I am the main contributor and only maintainer of the [Secureum GitBook](https://
 <details>
   <summary><b>Click to expand!</b></summary>
   <ul>
-    <li> <a href=https://www.youtube.com/watch?v=wcBNQvU3XKc>Introducción a ZKP: el Esquema de Compromiso KZG <em>(at 🦖DEVFEST UPV 2023🦖)</em></a></li>
+    <li><a href=https://www.youtube.com/watch?v=wcBNQvU3XKc>Introducción a ZKP: el Esquema de Compromiso KZG <em>(at 🦖DEVFEST UPV 2023🦖)</em></a></li>
     <li><a href=https://www.youtube.com/watch?v=ABdFd54VfwY>A Unified Framework for Formal Verification of Vyper Bytecode using Halmos <em>(at TrustX DevConnect Istanbul 2023)</em></a></li>
     <li><a href=https://www.youtube.com/watch?v=-q4G-BajUAE>Secureum content announcement <em>(at TrustX DevConnect Istanbul 2023)</em></a></li>
     <li><a href=https://www.youtube.com/watch?v=h7yKGYt391M>A quick insight on Algebra and KZG commitments <em>(online at OpenSensePW)</em></a></li>
